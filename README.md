@@ -1,4 +1,4 @@
-# Pytorch_Image_Classification_with-Optuna
+# Pytorch_Image_Classification_with_Optuna
 
 - For those who are familiar with Pytorch, I would like to present an image classification application on Simpsons dataset, which can be found [here](https://www.kaggle.com/alexattia/the-simpsons-characters-dataset). There are 42 classes in the original data, I will focus on 20 of them in this notebook. The task is to classify these 20 characters. 
 - Without going through explonatory data analyis and post-processing, I would like to focus on training. In Part-1, let's build a custom model. In Part-2, I will consider pretrained models.
